@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VelibFINDER</string>
+
+    //activity_info.xml
+    <string name="placeLibre">Places libres</string>
+    <string name="borneTotal">Bornes au total</string>
+
+    //share.xml
+    <string name="member1">mateos_n</string>
+    <string name="member2">chambo_b</string>
+
+    //toolbar.xml
+    <string name="info">info</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
